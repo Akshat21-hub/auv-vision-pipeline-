@@ -1,4 +1,4 @@
-# AUV Vision Pipeline (Dreadnought Prototype)
+# AUV Vision Pipeline 
 
 A modular, OpenCV-based ROS 2 perception node designed to identify PVC competition gates in murky underwater environments. This stack relies strictly on classic computer vision math—no heavy machine learning models—to maintain high FPS on constrained hardware.
 
