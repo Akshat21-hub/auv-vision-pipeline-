@@ -19,3 +19,8 @@ A modular, OpenCV-based ROS 2 perception node designed to identify PVC competiti
 **Launch the full stack (Vision, Control, and Echo tabs):**
 ```bash
 ./start_stack.sh
+```
+**Launch the stack without CLAHE enhancement Vision, Control, and Echo tabs):**
+```bash
+./start_stack.sh off
+```
